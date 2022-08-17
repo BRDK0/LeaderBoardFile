@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\DataBaseProj2\DataBaseProj2\bin\Debug\net6.0\DataBaseProj2.exe
+C:\Users\Admin\source\repos\DataBaseProj2\DataBaseProj2\bin\Debug\net6.0\DataBaseProj2.deps.json
+C:\Users\Admin\source\repos\DataBaseProj2\DataBaseProj2\bin\Debug\net6.0\DataBaseProj2.runtimeconfig.json
+C:\Users\Admin\source\repos\DataBaseProj2\DataBaseProj2\bin\Debug\net6.0\DataBaseProj2.dll
+C:\Users\Admin\source\repos\DataBaseProj2\DataBaseProj2\bin\Debug\net6.0\DataBaseProj2.pdb
+C:\Users\Admin\source\repos\DataBaseProj2\DataBaseProj2\obj\Debug\net6.0\DataBaseProj2.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DataBaseProj2\DataBaseProj2\obj\Debug\net6.0\DataBaseProj2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\DataBaseProj2\DataBaseProj2\obj\Debug\net6.0\DataBaseProj2.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DataBaseProj2\DataBaseProj2\obj\Debug\net6.0\DataBaseProj2.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DataBaseProj2\DataBaseProj2\obj\Debug\net6.0\DataBaseProj2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DataBaseProj2\DataBaseProj2\obj\Debug\net6.0\DataBaseProj2.dll
+C:\Users\Admin\source\repos\DataBaseProj2\DataBaseProj2\obj\Debug\net6.0\refint\DataBaseProj2.dll
+C:\Users\Admin\source\repos\DataBaseProj2\DataBaseProj2\obj\Debug\net6.0\DataBaseProj2.pdb
+C:\Users\Admin\source\repos\DataBaseProj2\DataBaseProj2\obj\Debug\net6.0\DataBaseProj2.genruntimeconfig.cache
+C:\Users\Admin\source\repos\DataBaseProj2\DataBaseProj2\obj\Debug\net6.0\ref\DataBaseProj2.dll

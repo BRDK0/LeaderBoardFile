@@ -1,0 +1,5 @@
+ManchesterUnited#103#3#201#180
+Liverpool#58#2#150#120
+Chelsea#68#4#172#181
+Arsenal#89#0#20#80
+CapeTown#98#8#140#80
